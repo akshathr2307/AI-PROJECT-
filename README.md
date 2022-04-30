@@ -6,6 +6,9 @@ This system will reduce the workload of the workers in general/hiring, training,
 This system will help to select the correct and right  candidate for the desired job profile, using their resume,which in turn provide the expert for the organization.
 This system will help us generate a output which will help us find the right candidate for the job based on his resume .
 
+AIM :
+To make a ML model to predict the personality trait of a candidate in order to select them for the desired job .
+
 IMPLEMENTATION:
 
 The implementation of this project consists of  the following mainsteps:
@@ -20,7 +23,9 @@ Openness
 Organize
 Conscientiousness
 Experience
- Extraversion
+Extraversion
+
+
 
 
 
